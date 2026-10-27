@@ -1,10 +1,6 @@
 
 <div align="center">
 
-```
- Anny Isabelly Silva Santos
-```
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=ADS;Python+%7C+MySQL+%7C+React+Native;Estudante+de+TI+em+constante+evolução;Explorando+o+mundo+do+desenvolvimento+web)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anny-isabelly-silva-santos-097487308/)
