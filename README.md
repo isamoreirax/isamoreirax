@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/isamoreirax/isamoreirax/main/header.svg" alt="Anny Isabelly - Análise e Desenvolvimento de Sistemas" width="100%"/>
+<img src="https://raw.githubusercontent.com/isamoreirax/isamoreirax/master/header.svg" alt="Anny Isabelly - Análise e Desenvolvimento de Sistemas" width="100%"/>
 
 <br/>
 
